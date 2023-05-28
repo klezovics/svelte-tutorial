@@ -1,0 +1,1 @@
+Based on the example repository here: https://svelte.dev/examples/hello-world
