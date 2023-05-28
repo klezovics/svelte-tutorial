@@ -4,7 +4,7 @@
     import MyFirstComponent from "./lib/1_hello_svelte/MyFirstComponent.svelte";
     import ComponentWithProps from "./lib/2_component_props/ComponentWithProps.svelte";
     import ComponentWithState from "./lib/3_component_state/ComponentWithState.svelte";
-    import ContainerComponent from "./lib/4_component_composition/ContainerComponent.svelte";
+    import ContainerComponent from "./lib/4_component_composition/1_basic_composition/ContainerComponent.svelte";
     import MyComponentWithJs from "./lib/1_hello_svelte/MyComponentWithJs.svelte";
     import MyComponentWithCss from "./lib/1_hello_svelte/MyComponentWithCss.svelte";
     import ComponentWithBasicReactivity from "./lib/5_reactivity/ComponentWithBasicReactivity.svelte";
@@ -31,10 +31,10 @@
     <!--    Section 4 -->
     <!--    <ContainerComponent />-->
 
-    <!--    Section 5 -->
-    <ComponentWithBasicReactivity />
-    <ComponentWithReactiveDeclarations />
-    <ComponentWithReactiveStatements />
+    <!--     Section 5 -->
+    <!--    <ComponentWithBasicReactivity />-->
+    <!--    <ComponentWithReactiveDeclarations />-->
+    <!--    <ComponentWithReactiveStatements />-->
 
 
 </main>
