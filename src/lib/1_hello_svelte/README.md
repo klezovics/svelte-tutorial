@@ -1,0 +1,1 @@
+Explain Svelte project structure here
